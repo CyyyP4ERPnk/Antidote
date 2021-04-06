@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Check-In - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="check_in">ca05aa9b0703201024ecf9fc7c1ed06c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-27 20:54:06</sys_created_on>
+        <sys_id>44e56adb0703201024ecf9fc7c1ed085</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check-In - Container 3</sys_name>
+        <sys_package display_value="Antidote" source="x_536549_antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_scope>
+        <sys_update_name>sp_container_44e56adb0703201024ecf9fc7c1ed085</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-27 20:54:06</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</application>
+        <file_path/>
+        <instance_id>3081e82ddb33db00b2e05d00cf961951</instance_id>
+        <instance_name>dev69281</instance_name>
+        <name>sp_container_44e56adb0703201024ecf9fc7c1ed085</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Check-In - Container 3</name><order>3</order><sp_page display_value="check_in">ca05aa9b0703201024ecf9fc7c1ed06c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-27 20:54:06</sys_created_on><sys_id>44e56adb0703201024ecf9fc7c1ed085</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Check-In - Container 3</sys_name><sys_package display_value="Antidote" source="x_536549_antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_package><sys_policy/><sys_scope display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_scope><sys_update_name>sp_container_44e56adb0703201024ecf9fc7c1ed085</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-27 20:54:06</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-2065435599</payload_hash>
+        <record_name>Check-In - Container 3</record_name>
+        <reverted_from/>
+        <source>7eb231410743201024ecf9fc7c1ed0a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-27 20:54:06</sys_created_on>
+        <sys_id>00e56adb0703201024ecf9fc7c1ed087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178757727e90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-27 20:54:06</sys_updated_on>
+        <type>Container</type>
+        <update_guid>48e56adb91032010c70ac6dc8640a986</update_guid>
+        <update_guid_history>48e56adb91032010c70ac6dc8640a986:-2065435599</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Check-In - Container 3">11e5eedb0703201024ecf9fc7c1ed082</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-27 20:54:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>3ebab1d14dff448ba971fbb036acc4d1</sys_id>
+        <sys_metadata>44e56adb0703201024ecf9fc7c1ed085</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check-In - Container 3</sys_name>
+        <sys_package display_value="Antidote" source="x_536549_antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_scope>
+        <sys_scope_delete display_value="">7f03f827018a4cc087a4dc4ed922c900</sys_scope_delete>
+        <sys_update_name>sp_container_44e56adb0703201024ecf9fc7c1ed085</sys_update_name>
+        <sys_update_version display_value="sp_container_44e56adb0703201024ecf9fc7c1ed085">00e56adb0703201024ecf9fc7c1ed087</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-27 20:54:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
