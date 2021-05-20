@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">301a082c0710301024ecf9fc7c1ed085</sp_column>
+        <sp_widget display_value="AI Search Assist">66135172671e1010b3d782f45685ef9e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-19 23:48:39</sys_created_on>
+        <sys_id>391a042c0710301024ecf9fc7c1ed0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Antidote" source="x_536549_antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_scope>
+        <sys_update_name>sp_instance_391a042c0710301024ecf9fc7c1ed0fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-19 23:48:39</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=391a042c0710301024ecf9fc7c1ed0fb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</application>
+        <file_path/>
+        <instance_id>3081e82ddb33db00b2e05d00cf961951</instance_id>
+        <instance_name>dev69281</instance_name>
+        <name>sp_instance_391a042c0710301024ecf9fc7c1ed0fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">301a082c0710301024ecf9fc7c1ed085</sp_column><sp_widget display_value="AI Search Assist">66135172671e1010b3d782f45685ef9e</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-19 23:48:39</sys_created_on><sys_id>391a042c0710301024ecf9fc7c1ed0fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Antidote" source="x_536549_antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_package><sys_policy/><sys_scope display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_scope><sys_update_name>sp_instance_391a042c0710301024ecf9fc7c1ed0fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-19 23:48:39</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=391a042c0710301024ecf9fc7c1ed0fb"/></record_update>]]></payload>
+        <payload_hash>1083394518</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7eb231410743201024ecf9fc7c1ed0a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-19 23:48:39</sys_created_on>
+        <sys_id>7d1a042c0710301024ecf9fc7c1ed0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179870803840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-19 23:48:39</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>b51a042c3f103010b412ceb651d289fd</update_guid>
+        <update_guid_history>b51a042c3f103010b412ceb651d289fd:1083394518</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1b3a842c0710301024ecf9fc7c1ed0e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-19 23:49:19</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>5ae5c16ddc5241ea8183d382ed370d04</sys_id>
+        <sys_metadata>391a042c0710301024ecf9fc7c1ed0fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Antidote" source="x_536549_antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Antidote">62fc6d850703201024ecf9fc7c1ed0af</sys_scope>
+        <sys_scope_delete display_value="">7f03f827018a4cc087a4dc4ed922c900</sys_scope_delete>
+        <sys_update_name>sp_instance_391a042c0710301024ecf9fc7c1ed0fb</sys_update_name>
+        <sys_update_version display_value="sp_instance_391a042c0710301024ecf9fc7c1ed0fb">7d1a042c0710301024ecf9fc7c1ed0fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-19 23:49:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
